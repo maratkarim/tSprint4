@@ -1,0 +1,56 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(2, 134, 134);
+}
+.Twitter p{
+    color: aliceblue;
+}
+.other{
+    display: flex;
+}
+.other p{
+    padding-left: 15px;
+    color: rgb(182, 192, 201);
+}
+.other button{
+    font-family:'Times New Roman', Times, serif;
+    padding-left: 15px;
+    font-size: 16px;
+    color: rgb(182, 192, 201);
+    margin-top: 15px;
+    border: none;
+    background-color: rgb(2, 134, 134);
+}
+/* general */
+.general{
+    width: 400px;
+    margin-left: 35%;
+}
+.info p{
+    font-size: 20px;
+    color: gray;
+}
+.info input{
+    width: 100%;
+    height: 35px;
+    border: 1px solid rgb(165, 167, 168);
+}
+.info select{
+    width: 100%;
+    height: 35px;
+    border: 1px solid rgb(165, 167, 168);
+}
+.btn button{
+    border: none;
+    color: white;
+    background-color: blue;
+    width: 40%;
+    height: 35px;
+    margin-top: 25px;
+}
